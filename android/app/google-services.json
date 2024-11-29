@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714673877521",
+    "project_id": "spotcompliance-c266a",
+    "storage_bucket": "spotcompliance-c266a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714673877521:android:37e6f30503687bfefcf7b0",
+        "android_client_info": {
+          "package_name": "com.doubleit.spotcompliance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwacZGaxubisdsfdtvrJglpNYfprWkwzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
